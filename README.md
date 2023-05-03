@@ -1,14 +1,17 @@
+### Title:
+
+
+# Inventory Dashboard
+
+
+
 ### Authors:
+
 # Meghana Sakamudi
 
 # Anusha Malle
 
 # Prudvi Manukonda
-
-
-
-# Inventory Dashboard
-
 ## Objective:
 
 Create a Inventory System app to get the order analysis of the application with dashboard landing page.
