@@ -1,9 +1,10 @@
 ### Authors:
 # Meghana Sakamudi
 
+# Anusha Malle
+
 # Prudvi Manukonda
 
-# Anusha Malle
 
 
 # Inventory Dashboard
