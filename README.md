@@ -3,15 +3,10 @@
 
 # Inventory Dashboard
 
-
-
 ### Authors:
 
-# Meghana Sakamudi
-
-# Anusha Malle
-
 # Prudvi Manukonda
+
 ## Objective:
 
 Create a Inventory System app to get the order analysis of the application with dashboard landing page.
